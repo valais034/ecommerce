@@ -1,0 +1,416 @@
+[17-Sep-2021 09:12:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:20:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:23:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:23:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:23:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:23:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 09:23:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 09:23:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:23:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 09:23:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 09:23:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:23:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 121
+[17-Sep-2021 09:23:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/add-product.php on line 51
+[17-Sep-2021 09:23:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:23:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 138
+[17-Sep-2021 09:23:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/users.php on line 52
+[17-Sep-2021 09:23:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:23:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 121
+[17-Sep-2021 09:23:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/cats.php on line 57
+[17-Sep-2021 09:23:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:23:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 121
+[17-Sep-2021 09:23:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/cats.php on line 57
+[17-Sep-2021 09:23:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:23:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 175
+[17-Sep-2021 09:23:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/comments.php on line 44
+[17-Sep-2021 09:23:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/comments.php on line 47
+[17-Sep-2021 09:23:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:23:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 347
+[17-Sep-2021 09:23:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/inc/functions.php on line 349
+[17-Sep-2021 09:23:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:23:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 347
+[17-Sep-2021 09:23:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/inc/functions.php on line 349
+[17-Sep-2021 09:23:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:23:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:23:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:33:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:33:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 121
+[17-Sep-2021 09:33:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/add-product.php on line 51
+[17-Sep-2021 09:34:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:34:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 347
+[17-Sep-2021 09:34:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/inc/functions.php on line 349
+[17-Sep-2021 09:34:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:34:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 121
+[17-Sep-2021 09:34:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/add-product.php on line 51
+[17-Sep-2021 09:34:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:34:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 121
+[17-Sep-2021 09:34:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/add-product.php on line 51
+[17-Sep-2021 09:34:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:34:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 09:34:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 09:34:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:34:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 09:34:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 09:34:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:34:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 121
+[17-Sep-2021 09:34:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/add-product.php on line 51
+[17-Sep-2021 09:37:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:37:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 121
+[17-Sep-2021 09:37:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/add-product.php on line 51
+[17-Sep-2021 09:37:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:37:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:37:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:37:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:37:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 121
+[17-Sep-2021 09:37:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/add-product.php on line 51
+[17-Sep-2021 09:37:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:37:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 121
+[17-Sep-2021 09:37:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/add-product.php on line 51
+[17-Sep-2021 09:38:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:38:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 121
+[17-Sep-2021 09:38:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/add-product.php on line 51
+[17-Sep-2021 09:38:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:38:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:38:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:38:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:38:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:38:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 121
+[17-Sep-2021 09:38:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/add-product.php on line 51
+[17-Sep-2021 09:40:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:40:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 121
+[17-Sep-2021 09:40:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/add-product.php on line 51
+[17-Sep-2021 09:40:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:40:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 121
+[17-Sep-2021 09:40:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/add-product.php on line 51
+[17-Sep-2021 09:40:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:40:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 121
+[17-Sep-2021 09:40:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/add-product.php on line 51
+[17-Sep-2021 09:40:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:40:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 121
+[17-Sep-2021 09:40:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/add-product.php on line 51
+[17-Sep-2021 09:47:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 09:47:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 77
+[17-Sep-2021 09:47:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 121
+[17-Sep-2021 09:47:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/add-product.php on line 51
+[17-Sep-2021 14:15:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:15:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 121
+[17-Sep-2021 14:15:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/add-product.php on line 51
+[17-Sep-2021 14:15:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:15:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:15:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:16:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:16:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:16:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:16:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:16:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:16:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:20:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:20:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:20:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:22:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:22:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:22:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:22:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:22:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 121
+[17-Sep-2021 14:22:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/add-product.php on line 51
+[17-Sep-2021 14:23:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:23:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:23:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:29:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:29:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:29:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:29:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:29:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:29:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:29:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:29:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 121
+[17-Sep-2021 14:29:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/add-product.php on line 51
+[17-Sep-2021 14:29:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:29:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:29:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:30:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:30:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:30:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:30:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:30:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:30:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:30:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '
+esir_xanbil'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:30:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:30:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:30:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'esir_ecommerce' in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:30:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:30:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:31:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'esir_ecommerce' in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:31:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:31:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:31:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'esir_ecommerce' in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:31:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:31:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:31:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'esir_ecommerce' in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:31:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:31:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:31:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'esir_ecommerce' in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:31:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:31:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:31:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'esir_ecommerce' in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:31:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'esir_ecommerce' in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:31:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'esir_ecommerce' in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:31:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'esir_ecommerce' in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:31:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:31:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:34:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'esir_ecommerce' in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:34:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:34:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:34:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'esir_ecommerce' in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:34:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:34:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:34:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'esir_ecommerce' in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:34:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:34:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:34:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'esir_ecommerce' in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:34:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 121
+[17-Sep-2021 14:34:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/add-product.php on line 51
+[17-Sep-2021 14:34:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'esir_ecommerce' in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:34:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:34:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:35:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'esir_ecommerce' in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:35:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:35:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:35:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'esir_ecommerce' in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:35:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 121
+[17-Sep-2021 14:35:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/add-product.php on line 51
+[17-Sep-2021 14:35:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'esir_ecommerce' in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:35:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 138
+[17-Sep-2021 14:35:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/users.php on line 52
+[17-Sep-2021 14:35:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'esir_ecommerce' in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:35:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 121
+[17-Sep-2021 14:35:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/cats.php on line 57
+[17-Sep-2021 14:35:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'esir_ecommerce' in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:35:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 175
+[17-Sep-2021 14:35:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/comments.php on line 44
+[17-Sep-2021 14:35:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/comments.php on line 47
+[17-Sep-2021 14:36:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'esir_ecommerce' in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:36:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 347
+[17-Sep-2021 14:36:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/inc/functions.php on line 349
+[17-Sep-2021 14:36:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'esir_ecommerce' in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:36:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:36:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:39:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'esir_ecommerce' in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:39:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 121
+[17-Sep-2021 14:39:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/add-product.php on line 51
+[17-Sep-2021 14:40:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'esir_ecommerce' in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:40:33 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/esir/public_html/ecommerce/admin/add-product.php on line 4
+[17-Sep-2021 14:40:33 UTC] PHP Notice:  Undefined variable: cats in /home/esir/public_html/ecommerce/admin/add-product.php on line 58
+[17-Sep-2021 14:40:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/add-product.php on line 58
+[17-Sep-2021 14:41:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'esir_ecommerce' in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:41:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 138
+[17-Sep-2021 14:41:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/users.php on line 52
+[17-Sep-2021 14:41:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'esir_ecommerce' in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:41:12 UTC] PHP Notice:  Undefined variable: cats in /home/esir/public_html/ecommerce/admin/add-product.php on line 54
+[17-Sep-2021 14:41:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/add-product.php on line 54
+[17-Sep-2021 14:41:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'esir_ecommerce' in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:41:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 121
+[17-Sep-2021 14:41:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/add-product.php on line 51
+[17-Sep-2021 14:44:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:44:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:44:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/esir/public_html/ecommerce/inc/functions.php on line 121
+[17-Sep-2021 14:44:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/add-product.php on line 51
+[17-Sep-2021 14:44:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/esir/public_html/ecommerce/inc/functions.php on line 138
+[17-Sep-2021 14:44:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/users.php on line 52
+[17-Sep-2021 14:44:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:44:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:44:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:44:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:44:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:44:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:48:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'my_user'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 3
+[17-Sep-2021 14:48:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'my_user'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 3
+[17-Sep-2021 14:48:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'my_user'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 3
+[17-Sep-2021 14:48:16 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'my_user'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 3
+[17-Sep-2021 14:48:18 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'my_user'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 3
+[17-Sep-2021 14:48:21 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'my_user'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 3
+[17-Sep-2021 14:48:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'my_user'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 3
+[17-Sep-2021 14:48:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'my_user'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 3
+[17-Sep-2021 14:48:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'my_user'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 3
+[17-Sep-2021 14:48:26 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'my_user'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 3
+[17-Sep-2021 14:48:36 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'my_user'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 3
+[17-Sep-2021 14:48:36 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'my_user'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 3
+[17-Sep-2021 14:48:37 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'my_user'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 3
+[17-Sep-2021 14:48:37 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'my_user'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 3
+[17-Sep-2021 14:48:37 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'my_user'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 3
+[17-Sep-2021 14:48:37 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'my_user'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 3
+[17-Sep-2021 14:48:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'my_user'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 3
+[17-Sep-2021 14:48:51 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/esir/public_html/ecommerce/inc/functions.php on line 138
+[17-Sep-2021 14:48:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/esir/public_html/ecommerce/admin/users.php on line 52
+[17-Sep-2021 14:48:52 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'my_user'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 3
+[17-Sep-2021 14:48:52 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/esir/public_html/ecommerce/inc/functions.php on line 138
+[17-Sep-2021 14:48:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/esir/public_html/ecommerce/admin/users.php on line 52
+[17-Sep-2021 14:48:55 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'my_user'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 3
+[17-Sep-2021 14:48:55 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/esir/public_html/ecommerce/inc/functions.php on line 138
+[17-Sep-2021 14:48:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/esir/public_html/ecommerce/admin/users.php on line 52
+[17-Sep-2021 14:48:55 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'my_user'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 3
+[17-Sep-2021 14:48:55 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:48:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:48:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'my_user'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 3
+[17-Sep-2021 14:48:57 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:48:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:48:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'my_user'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 3
+[17-Sep-2021 14:48:58 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/esir/public_html/ecommerce/inc/functions.php on line 121
+[17-Sep-2021 14:48:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/esir/public_html/ecommerce/admin/add-product.php on line 51
+[17-Sep-2021 14:48:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'my_user'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 3
+[17-Sep-2021 14:48:58 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:48:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:49:09 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'my_user'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 3
+[17-Sep-2021 14:49:16 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'my_user'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 3
+[17-Sep-2021 14:49:16 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:49:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:49:17 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'my_user'@'localhost' (using password: YES) in /home/esir/public_html/ecommerce/inc/config.php on line 3
+[17-Sep-2021 14:49:17 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:49:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:49:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:49:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:49:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:49:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:49:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:49:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:49:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:49:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:49:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:49:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:49:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:49:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:49:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:49:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:49:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:49:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:49:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:49:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:50:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'esir_ecommerce' in /home/esir/public_html/ecommerce/inc/config.php on line 5
+[17-Sep-2021 14:50:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:50:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:50:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'esir_ecommerce' in /home/esir/public_html/ecommerce/inc/config.php on line 5
+[17-Sep-2021 14:50:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:50:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:50:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'esir_ecommerce' in /home/esir/public_html/ecommerce/inc/config.php on line 5
+[17-Sep-2021 14:50:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:50:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:51:04 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:51:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:51:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:55:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'ecommerce' in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:55:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:55:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:55:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:55:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:55:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:55:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:55:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:55:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:55:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:55:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:55:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:55:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:55:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:55:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:55:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:55:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:55:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 14:55:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:55:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 121
+[17-Sep-2021 14:55:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/add-product.php on line 51
+[17-Sep-2021 14:55:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 14:55:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 14:55:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 15:01:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 15:01:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 15:01:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 15:09:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/esir/public_html/ecommerce/inc/config.php on line 4
+[17-Sep-2021 15:09:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 91
+[17-Sep-2021 15:09:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/esir/public_html/ecommerce/admin/products.php on line 55
+[17-Sep-2021 15:12:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/esir/public_html/ecommerce/admin/add-product.php on line 51
+[17-Sep-2021 15:12:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/esir/public_html/ecommerce/admin/cats.php on line 57
+[17-Sep-2021 15:12:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/esir/public_html/ecommerce/admin/comments.php on line 44
+[17-Sep-2021 15:12:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/esir/public_html/ecommerce/admin/comments.php on line 47
+[17-Sep-2021 15:12:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 349
+[17-Sep-2021 15:14:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/esir/public_html/ecommerce/admin/add-product.php on line 51
+[17-Sep-2021 15:15:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/esir/public_html/ecommerce/admin/add-product.php on line 51
+[17-Sep-2021 15:15:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/esir/public_html/ecommerce/admin/add-product.php on line 51
+[17-Sep-2021 15:16:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/esir/public_html/ecommerce/admin/add-product.php on line 51
+[17-Sep-2021 15:24:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/esir/public_html/ecommerce/admin/add-product.php on line 51
+[17-Sep-2021 15:28:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/esir/public_html/ecommerce/admin/add-product.php on line 51
+[17-Sep-2021 15:30:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/esir/public_html/ecommerce/admin/add-product.php on line 51
+[17-Sep-2021 15:30:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/esir/public_html/ecommerce/admin/add-product.php on line 51
+[17-Sep-2021 15:40:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/esir/public_html/ecommerce/admin/edit-product.php on line 56
+[17-Sep-2021 15:40:58 UTC] PHP Notice:  Undefined index: product_image in /home/esir/public_html/ecommerce/admin/edit-product.php on line 61
+[17-Sep-2021 15:40:58 UTC] PHP Notice:  Undefined index: product_image in /home/esir/public_html/ecommerce/admin/edit-product.php on line 64
+[17-Sep-2021 15:41:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/esir/public_html/ecommerce/admin/edit-product.php on line 56
+[17-Sep-2021 15:41:14 UTC] PHP Notice:  Undefined index: product_image in /home/esir/public_html/ecommerce/admin/edit-product.php on line 61
+[17-Sep-2021 15:41:14 UTC] PHP Notice:  Undefined index: product_image in /home/esir/public_html/ecommerce/admin/edit-product.php on line 64
+[17-Sep-2021 15:41:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/esir/public_html/ecommerce/admin/add-product.php on line 51
+[18-Sep-2021 23:22:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/esir/public_html/ecommerce/admin/comments.php on line 44
+[18-Sep-2021 23:22:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/esir/public_html/ecommerce/admin/comments.php on line 47
+[18-Sep-2021 23:22:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 349
+[19-Sep-2021 15:50:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/esir/public_html/ecommerce/admin/comments.php on line 44
+[19-Sep-2021 15:50:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/esir/public_html/ecommerce/admin/comments.php on line 47
+[22-Sep-2021 15:49:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 349
+[22-Sep-2021 15:53:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 349
+[22-Sep-2021 15:53:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 349
+[22-Sep-2021 15:53:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 349
+[22-Sep-2021 15:53:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/esir/public_html/ecommerce/inc/functions.php on line 349
