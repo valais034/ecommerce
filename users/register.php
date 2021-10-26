@@ -1,17 +1,21 @@
+<?php require_once '../inc/config.php';
 
-<?php require_once '../inc/config.php'; ?>
 if (is_login()) {
     redirect('profile');
 }
-<? require_once '../sections/header.php'
+require_once '../sections/header.php'
 ?>
+
 <!doctype html>
-<html lang="en">
+<html lang = "en">
 <head>
-    <meta charset="UTF-8">
-    <title>ورود به مدیریت</title>
-    <link rel="stylesheet" href="styles/styles.css">
+    <meta charset = "UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>ثبت نام</title>
+    <link rel = "stylesheet" href = "../styles/styles.css">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
 </head>
+
 <body>
 <div id="main">
     <div id="login-page">

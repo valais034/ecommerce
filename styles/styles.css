@@ -479,7 +479,7 @@ display:none; }
     background-color: #fff;
     margin: 0 auto;
     position: relative;
-    top: -40px;
+    top: 20px;
     box-shadow: 0px 0px 15px 0px rgba(97, 97, 97, 1);
     float: right;
 }
@@ -490,7 +490,7 @@ display:none; }
     background-color: #fff;
     margin: 0 auto;
     position: relative;
-    top: -40px;
+    top: 20px;
     box-shadow: 0px 0px 15px 0px rgba(97, 97, 97, 1);
     float: right;
 }
@@ -575,7 +575,7 @@ display:none; }
 #sidebar {
     margin: 0 auto;
     position: relative;
-    top: -40px;
+    top: 20px;
     float: left;
 
 }
@@ -723,7 +723,7 @@ display:none; }
     background-color: #fff;
     margin: 0 auto;
     position: relative;
-    top: -40px;
+    top: 20px;
     box-shadow: 0px 0px 15px 0px rgba(97, 97, 97, 1);
     text-align: center;
     padding: 10px;

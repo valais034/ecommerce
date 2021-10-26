@@ -1,4 +1,5 @@
-<?php require_once 'inc/config.php'; ?>
+<?php require_once 'inc/config.php';
+?>
 <?php
 $products = get_products(6);
 require_once 'sections/header.php';

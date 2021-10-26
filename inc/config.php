@@ -1,10 +1,11 @@
 <?php
 
 
-$db = mysqli_connect('localhost','esir_xanbil','-d0tx%Oau(O~','esir_ecommerce',);
+$db = mysqli_connect('localhost','esir_xanbil','123456','esir_ecommerce');
 
 if (!$db) {
     echo mysqli_connect_error();
+
 }
 mysqli_query($db, "set names 'UTF-8'");
 /*
