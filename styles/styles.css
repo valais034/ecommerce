@@ -500,8 +500,11 @@ display:none; }
     cursor: pointer;
 }
 .header-left-box span  {
-    font-size:  0.8vw;
+    font-size:  0.6vw;
     line-height: 2px;
+}
+.header-left-box a  {
+    color: black;
 }
 .header-left-box i  {
     margin-top: 10%;

@@ -67,8 +67,8 @@ function myFunction() {
 </div>
                     <div id="header-left">
                        <div class="header-left-box">
-                           <i class="fas fa-user"></i><br>
-                           <span id="header-left-box1">ورود / ثبت نام</span>
+                           <i class="fas fa-user" "></i><br>
+                           <a href="../ecommerce/users/login.php"><span id="header-left-box1" >ورود / ثبت نام</span></a>
 
                        </div>
                        <div class="header-left-box">
