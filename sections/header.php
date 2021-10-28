@@ -49,7 +49,8 @@ function myFunction() {
                 <a>ارسال رایگان برای سفارشات بالای یک میلیون تومان - فقط تا پایان پاییز 1400</a>
             </div>
             <div>
-<div id="header">
+                <div id="header">
+<div id="header-right">
     <div id="top-nav">
         <nav class="container">
             <ul>
@@ -62,5 +63,9 @@ function myFunction() {
             </ul>
         </nav>
     </div>
-    
+
+</div>
+                    <div id="header-left">
+                        <a href="">ورود/ثبت نام</a>
+                    </div>
 </div>

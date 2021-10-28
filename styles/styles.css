@@ -42,22 +42,33 @@ a {
 }
 
 
-.container3 {
-  position: relative;
-  max-width: 1920px; /* Maximum width */
-  margin: 0 auto; /* Center it */
-  max-height: 400px;
-}
 
-.container3 .content3 {
-  position: absolute; /* Position the background text */
-  bottom: 50px; /* At the bottom. Use top:0 to append it to the top */
+/*.container3 {*/
+/*  position: relative;*/
+/*  max-width: 1920px; !* Maximum width *!*/
+/*  margin: 0 auto; !* Center it *!*/
+/*  max-height: 400px;*/
+/*}*/
+
+.container3  {
+    background-image: url("../images/casa_n.jpg");
   text-align:center;
   color: #f1f1f1; /* Grey text */
   width: 100%; /* Full width */
-  padding: 5px; /* Some padding */
-  font-size: 1.5vmin;
-  
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+.container3 .content3 {
+    position: relative;
+    bottom: 20%; /* At the bottom. Use top:0 to append it to the top */
+    text-align:center;
+    color: #f1f1f1; /* Grey text */
+    width: 100%; /* Full width */
+    /*padding: 5%; !* Some padding *!*/
+    font-size: 1.1vw;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
 }
 
 .button {
@@ -413,6 +424,13 @@ nav a{
     width: 100%;
     height: 55px;
     background-color: #0D47A1;
+
+}
+#header-right {
+    width: 80%;
+    background-color: #0D47A1;
+    position: relative;
+    float: right;
     
 }
 @media screen and (max-width: 600px) {
@@ -420,40 +438,52 @@ nav a{
 display:none; }
 }
 
-#header #top-nav {
-    
+#header-right #top-nav {
     background-color: #FFFFFF;
     box-shadow: 1px 3px 3px 0 #1A237E;
+    position: relative;
+    float: right;
     
 
 }
 
-#header #top-nav ul {
+#header-right #top-nav ul {
     padding: 5px 0;
     margin: 0;
+    position: relative;
     
     
 }
-#header #top-nav img {
+#header-right #top-nav img {
     
     padding-top: 15px;
     width: 100px;
-    height:30px;
-    margin-left: 20px;
+    height: 30px;
+    margin-left: 10px;
 }
 
-#header #top-nav ul li {
+#header-right #top-nav ul li {
     display: inline-block;
     font-size: 14px;
-    margin-left: 15px;
+    margin-left: 10px;
 }
 
-#header #top-nav ul li a {
+#header-right #top-nav ul li a {
     color: #000000
 }
 
-#header #top-nav ul li a:hover {
+#header-right #top-nav ul li a:hover {
     color: #7c7e80;
+
+}
+
+#header-left  {
+
+    width: 19%;
+    background-color: #FFFFFF;
+    box-shadow: 1px 3px 3px 0 #1A237E;
+    float: right;
+
 
 }
 

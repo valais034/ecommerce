@@ -220,7 +220,7 @@ require_once 'sections/header.php';
 
 
 <div class="container3">
-  <img src="images/casa_n.jpg" alt="Notebook" style="width:100%;">
+<!--  <img src="images/casa_n.jpg" alt="Notebook" style="width:100%;">-->
   <div class="content3">
     <h1>محصولات جدید پاییزی مانگو فقط تا 30 آذر</h1>
     <p>فروش لباس های زنانه، تا 20 درصد تخفیف</p>
@@ -228,6 +228,8 @@ require_once 'sections/header.php';
   </div>
 </div>
 </div>
+</div>
+
 
 
      
