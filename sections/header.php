@@ -66,6 +66,22 @@ function myFunction() {
 
 </div>
                     <div id="header-left">
-                        <a href="">ورود/ثبت نام</a>
+                       <div class="header-left-box">
+                           <i class="fas fa-user"></i><br>
+                           <span id="header-left-box1">ورود / ثبت نام</span>
+
+                       </div>
+                       <div class="header-left-box">
+                           <i class="fas fa-search"></i><br>
+                           <span id="header-left-box2">جستجو</span>
+                       </div>
+                       <div class="header-left-box">
+                           <i class="fas fa-heart"></i><br>
+                           <span id="header-left-box3">علاقه مندی ها</span>
+                       </div>
+                       <div class="header-left-box">
+                           <i class="fal fa-shopping-bag"></i><br>
+                           <span id="header-left-box4">سبد خرید</span>
+                       </div>
                     </div>
 </div>
